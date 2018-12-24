@@ -3,6 +3,7 @@ This repository contains all the source files needed to follow the series [Kuber
 This is the best introduction to Kubernetes and Everything related to be able to deploy scalable and resilient applications on Kubernetes managed clusters.
 
 ### Serving static files with Nginx
+[Instructions on Controlling Nginx](http://nginx.org/en/docs/control.html)\
 _OS_ - macOS Mojave
 ```
 username$ brew install nginx
