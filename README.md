@@ -26,5 +26,5 @@ http {
 }
 ```
 Start the server\
-`sudo brew services start nginx`
+`username$ sudo brew services start nginx`
 
