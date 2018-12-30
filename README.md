@@ -4,6 +4,7 @@ This is the best introduction to Kubernetes and Everything related to be able to
 
 ### Serving static files with Nginx
 [Instructions on Controlling Nginx](http://nginx.org/en/docs/control.html)\
+[How to stop nginx server](https://serverfault.com/questions/141975/how-to-stop-nginx-on-mac-os-x)\
 _OS_ - macOS Mojave
 ```
 username$ brew install nginx
